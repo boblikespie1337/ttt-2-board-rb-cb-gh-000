@@ -1,2 +1,2 @@
 # Define the variable board below.
-baord = array.New[" ", " ", " ", " ", " ", " ", " ", " ", " "]
+baord = array.New[" "," "," "," "," "," "," "," "," "]
